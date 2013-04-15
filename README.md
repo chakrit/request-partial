@@ -73,6 +73,11 @@ describe('home page', function() {
 
 3-clause BSD, see the full text in the LICENSE file.
 
+# TODO
+
+* Support receiving multiple functions (i.e. one for error handling and another for
+  asserts.)
+
 [0]: https://github.com/mikeal/request
 [1]: https://github.com/mikeal/request#requestoptions-callback
 [2]: http://lodash.com/docs#merge
